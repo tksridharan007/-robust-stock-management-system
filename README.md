@@ -1,1 +1,1 @@
-# -robust-stock-management-system
+# robust-stock-management-system
